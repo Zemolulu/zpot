@@ -1,0 +1,2 @@
+# zpot
+A greasemonkey helper.
